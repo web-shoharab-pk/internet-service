@@ -1,0 +1,13 @@
+.cardDiv{
+    transition: 1s;
+    height: 28rem  ;
+}
+
+.cardDiv img{ 
+    height: 200px;
+    width: 100%;
+}
+
+.cardDiv:hover{ 
+    transform: scale(1.1);
+}

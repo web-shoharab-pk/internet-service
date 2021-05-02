@@ -1,0 +1,30 @@
+.footerSection{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(0deg, rgba(26, 77, 208, .5), rgba(233, 13, 149, .5)), url('../../images/footerBg.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.linkIcon{
+    font-size: 40px;
+ 
+    margin: 0px;
+    color: #E8305D; 
+    border-radius: 50%;
+    /* transition: 1s; */
+}
+.linkIcon:hover{
+    color: white;
+    transform: scale(1.1);
+}
+.link{
+    display: block;
+    margin-top: 10px;
+    font-weight: 700;
+    color: #c7c2c5;
+    text-decoration: none;
+}
+.link:hover{
+    color: white;
+}

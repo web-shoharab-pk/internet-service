@@ -1,0 +1,6 @@
+.reviewCard{
+    transition: 1.5s;
+}
+.reviewCard:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,25 @@
+.sidebar{
+    width: 100%;
+    height: 100vh;
+    background-color: #f8408d;
+}
+.sidebarOption{
+    margin: 20px;  
+}
+.sidebarLink{
+    color: #9b9b9b;
+    font-size: 20px;
+    font-weight: 700;  
+    text-decoration: none; 
+    margin-left: 10px;
+    padding: 5px 20px;
+    width: 100%;
+}
+.sidebarLink:hover{
+    width: 200px;
+    background-color: #f8046a; 
+}
+.logout{
+    position: absolute;
+    bottom: 20px;
+}

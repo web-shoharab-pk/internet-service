@@ -1,0 +1,8 @@
+.nav-link{
+    background-color: #2948CC;
+    color: white !important;
+    transition: .5s;
+}
+.nav-link:hover{
+    background-color: #F10B92; 
+}

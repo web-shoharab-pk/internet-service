@@ -1,0 +1,16 @@
+.anchorBtn{
+    border: 2px solid white;
+    padding: 10px 40px;
+    background-color: white;
+    font-weight: 700;
+    font-size: 20px; 
+    color: #4F3CC1;
+    transition: .5s;
+}
+.recentWorkDescription{
+    background: linear-gradient(45deg,  #0463fdd3, #fa08d2d8 );
+}
+.anchorBtn:hover{
+    background:  #fa08d2d8;
+    color: white;
+}

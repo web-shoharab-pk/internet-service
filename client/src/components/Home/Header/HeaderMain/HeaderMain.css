@@ -1,0 +1,17 @@
+.brandBtn{
+    border: 0;
+    padding: 10px 40px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    background: linear-gradient(45deg, #f62370, #ff3a43);
+    transition: 1s;
+}
+.brandBtn:hover{
+    background: linear-gradient(45deg, #ff3a43, #f62370);
+     box-shadow: 0px 0px 5px white;
+}
+.headerImageDiv{
+    background-image: url('../../../images/circle-bg.png');
+    opacity: 1;
+}
