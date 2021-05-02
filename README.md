@@ -1,12 +1,16 @@
 # internet-service
-      <strong>Features:</strong>
-                            <ul>
-                                <li>Customer can buy any services, </li>
-                                <li>Customer can payment with stripe method,</li>
-                                <li>Customer can check his all orders,</li>
-                                <li>Admin can add service,  </li>
-                                <li>Admin can delete service,</li>
-                                <li>Admin can change service status,</li>
-                                <li>Admin can add an admin,</li>
-                                <li>Admin have an extra dashboard and only admin can access this dashboard</li>
-                            </ul>
+ ### Features:
+### Customer can buy any services,
+### Customer can payment with stripe method,
+### Customer can check his all orders,
+### Admin can add service,
+### Admin can delete service,
+### Admin can change service status,
+### Admin can add an admin, 
+### Admin have an extra dashboard and only admin can access this dashboard
+### Technology Used: 
+ ### Front-end Javascript (ES6), React, Bootstrap, Material UI, HTML, CSS, Contaxt API and many libraries
+ ### Back-end:</strong> NodeJS, ExpressJS, Heroku(for deploy)
+ ### Database:  MongoDB
+ ### Authentication:  Firebase(Authentication and deploy)
+                           
